@@ -5,7 +5,7 @@ B.E. CSE Graduate | Aspiring Data Analyst
 I'm interested in Data Analytics, Python, SQL and software development. I enjoy learning new technologies and applying my knowledge through practical projects.
 
 ### Technical Skills
-- **Programming:** Python, C, Kotlin, C++, JavaL
+- **Programming:** Python, C, Kotlin, C++, Java
 - **Data Analytics:** SQL, Python, Power BI, Microsoft Excel
 - **Tools & Platforms:** Linux commands, Android Studio
 - **Web:** HTML(Basics)
